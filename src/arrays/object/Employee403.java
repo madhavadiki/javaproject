@@ -5,8 +5,8 @@ import em.dto.Employee33;
 import em.dto.Salary;
 
 
-// Employee Class
- 
+// Employee Class.
+
 public class Employee403 {
     public static void main(String[] args) {
         //Creating of object using default constructor
